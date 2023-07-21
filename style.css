@@ -1,0 +1,89 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    outline: none;
+}
+html { 
+    height: 100%;
+}
+
+body {
+margin: 0; /* Убираем отступы */
+height: 100%; /* Высота страницы */
+background: url(fon.jpg); /* Параметры фона */
+background-size: cover; /* Фон занимает всю доступную площадь */
+} 
+
+a{
+    text-decoration: none;
+}
+#header{
+    width: 100%;
+    height: 70px;
+   background-color: #00fa9a; 
+    opacity: 0.7;
+    
+    
+}
+#nameHeader{
+    font-size: 40px;
+    text-align: center;
+    margin-top: 0px;
+    text-shadow: black 2px 3px 4px;
+    color: white;
+}
+#content{
+    width: 30%;
+    max-height: 18em;
+    margin-left: 5em;
+    margin-top: 4em;
+    text-align: center;
+}
+#plot{
+    width: 100%;
+    min-height: 2em;
+    max-height: 3em;
+    background-color: #FFFF7F;
+    border-radius: 20px;
+    box-shadow: black 2px 3px 4px;
+    font-size: 35px;
+    padding-top: 15px;
+
+    
+}
+#characters{
+    width: 100%;
+    min-height: 2em;
+    max-height: 3em;
+    background-color: #FFFF7F;
+    margin-top: 2em;
+    border-radius: 20px;
+    box-shadow: black 2px 3px 4px;
+    font-size: 35px;
+    padding-top: 15px;
+
+}
+#merch{
+    width: 100%;
+    min-height: 2em;
+    max-height: 3em;
+    background-color: #FFFF7F;
+    margin-top: 2em;
+    border-radius: 15px;
+    box-shadow: black 2px 3px 4px;
+    font-size: 35px;
+    padding-top: 15px;
+}
+
+#iii{
+    width: 100%;
+    min-height: 2em;
+    max-height: 3em;
+    background-color: #FFFF7F;
+    margin-top: 2em;
+    border-radius: 15px;
+    box-shadow: black 2px 3px 4px;
+    font-size: 35px;
+    padding-top: 15px;
+}
+
